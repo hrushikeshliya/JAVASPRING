@@ -1,0 +1,7 @@
+com/auth0/example/LoginController.class
+com/auth0/example/App.class
+com/auth0/example/LogoutController.class
+com/auth0/example/ErrorController.class
+com/auth0/example/AppConfig.class
+com/auth0/example/CallbackController.class
+com/auth0/example/HomeController.class
